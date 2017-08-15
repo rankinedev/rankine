@@ -4,12 +4,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Rankine</source>
-        <translation>ブラックコインについて</translation>
+        <translation>Rankineについて</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Rankine&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;ブラックコイン&lt;/b&gt;バージョン</translation>
+        <translation>&lt;b&gt;Rankine&lt;/b&gt;バージョン</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -66,7 +66,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-46"/>
         <source>These are your Rankine addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>これは支払いを受けるためのブラックコインのアドレス。支払い管理をするのため、各送信者へ、それぞれのアドレスを伝えたほうがいいです。</translation>
+        <translation>支払いを受けるためのRankineのアドレスです。支払い管理をするのため、各送信者、それぞれのアドレスを伝えることが推奨されます。</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -76,17 +76,17 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>QRコードを表す</translation>
+        <translation>QRコードを表示</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Rankine address</source>
-        <translation>所有権の証明するためのメサッジを署名する。</translation>
+        <translation>所有権の証明するためのメッセージに署名する。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation>メサッジを署名する。</translation>
+        <translation>メッセージに署名する。</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -136,7 +136,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>ファイルを書き込めなかった。%1</translation>
+        <translation>ファイルに書き込めませんでした。%1</translation>
     </message>
 </context>
 <context>
@@ -428,12 +428,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-62"/>
         <source>Send coins to a Rankine address</source>
-        <translation>ブラックコインアドレスへコインを送る</translation>
+        <translation>Rankineアドレスへコインを送る</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Modify configuration options for Rankine</source>
-        <translation>ブラックコインの設定を変化する</translation>
+        <translation>Rankineの設定を変化する</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,7 +473,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-200"/>
         <source>Rankine</source>
-        <translation>ブラックコイン</translation>
+        <translation>Rankine</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,7 +483,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+178"/>
         <source>&amp;About Rankine</source>
-        <translation>ブラックコインについて</translation>
+        <translation>Rankineについて</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -545,7 +545,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message numerus="yes">
         <location line="+70"/>
         <source>%n active connection(s) to Rankine network</source>
-        <translation><numerusform>ブラックコインネットワークへの%n アクティブな接続</numerusform></translation>
+        <translation><numerusform>Rankineネットワークへの%n アクティブな接続</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,7 +659,7 @@ Address: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Rankine address or malformed URI parameters.</source>
-        <translation>URIのパーズができませんでした！。原因は無効なブラックコインアドレスか不正なURIパラメータ。</translation>
+        <translation>URIのパーズができませんでした！。原因は無効なRankineアドレスか不正なURIパラメータ。</translation>
     </message>
     <message>
         <location line="+18"/>
